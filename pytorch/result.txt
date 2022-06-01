@@ -1,0 +1,1 @@
+[('Labrador retriever', 42.467350006103516), ('golden retriever', 16.60867691040039), ('Saluki, gazelle hound', 15.473799705505371), ('whippet', 2.7881953716278076), ('Ibizan hound, Ibizan Podenco', 2.3617069721221924)]
